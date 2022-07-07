@@ -1,0 +1,397 @@
+p {
+  color: rgba(125, 121, 135, 1);
+  
+}
+
+.logo_img {
+  display: inline-block;
+  position: absolute;
+  left: 200px;
+}
+
+ul>li {
+  list-style: none;
+  display: inline-block;
+}
+ul>li:hover{color: #458FF6;font-size: 18px;}
+
+.meny_item {
+  display: inline-block;
+  vertical-align: text-bottom;
+  text-align: end;
+  position: absolute;
+  width: 545px;
+  height: 23px;
+  left: 800px;
+  font-size: 18px;
+  line-height: 23px
+}
+
+.section {
+  text-decoration: none;
+  color: rgba(31, 21, 52, 1);
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  margin: 10px;
+}
+
+.header {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 56px;
+}
+
+
+
+.meny_text {
+  position: absolute;
+  width: 445px;
+  height: 338px;
+  left: 200px;
+  top: 250px;
+}
+
+.header_text {
+  color: rgba(125, 121, 135, 1);
+  font-size: 24px;
+
+}
+
+.button {
+  background: rgba(69, 143, 246, 1);
+  border: 0px;
+  height: 56px;
+  width: 200px;
+  left: 200px;
+  top: 643px;
+  border-radius: 55px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 60px;
+  color: rgba(255, 255, 255, 1);
+  mix-blend-mode: normal;
+
+}
+.button:hover{background-color: rgb(72, 224, 25);color: #458FF6;}
+
+.meny_rasm {
+  position: absolute;
+  height: 598px;
+  width: 693px;
+  left: 380px;
+  top: 56px;
+  border-radius: 0px;
+
+}
+
+/*        our_services*/
+.our_services {
+  position: absolute;
+  top: 923px;
+  left: 400px;
+  width: 820px;
+  text-align: center;
+
+
+}
+
+.services_header {
+  text-align: center;
+}
+
+.line {
+  display: inline-block;
+  height: 2px;
+  width: 56px;
+  border-radius: 5px;
+  background-color: black;
+  text-align: center;
+
+}
+
+.services_text {
+  font-size: 18px;
+  text-align: center;
+  color: rgba(125, 121, 135, 1);
+
+}
+
+.services_ {
+  position: absolute;
+  width: 1120px;
+  height: 745px;
+  left: 247px;
+  top: 1280px;
+  margin-top: -105px;
+
+
+
+}
+
+.services_section {
+  background-color: white;
+  width: 300px;
+  display: inline-block;
+  height: 354px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+
+
+}
+
+.services_sectionn {
+  position: relative;
+  background-color: white;
+  width: 300px;
+  display: inline-block;
+  height: 354px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+  top: -90px;
+  margin: 10px;
+  padding: 10px;
+
+
+}
+
+.services_sectionnn {
+  position: relative;
+  background-color: white;
+  width: 300px;
+  display: inline-block;
+  height: 354px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+  top: -20px;
+  margin: 10px;
+  padding: 10px;
+
+
+}
+
+.photo_services {
+  margin-left: 35px;
+  margin-top: 50px;
+
+}
+
+.we {
+  margin-top: -90px;
+}
+
+.services_button {
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  left: 604px;
+  top: 2096px;
+
+}
+
+.button_services {
+  box-sizing: border-box;
+  color: #458FF6;
+  
+  
+  width: 200px;
+  height: 60px;
+  border: 2px solid #458FF6;
+  border-radius: 55px;
+  font-size: 18px;
+
+}
+.button_services:hover{color: blue;background-color: aqua;}
+
+/* providers*/
+.providers_section {
+  position: absolute;
+  width: 1273px;
+  height: 477px;
+  left: 200px;
+  top: 2000px;
+
+}
+
+.providers_img {
+  position: absolute;
+  left: 2.44%;
+  top: 39.49%;
+  bottom: 52.39%;
+
+}
+
+.providers_header {
+  position: absolute;
+  left: 57.94%;
+  right: 12%;
+  top: 40.46%;
+  bottom: 57.63%;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-size: 24px;
+
+}
+
+.providers_line {
+  position: absolute;
+  width: 56px;
+  height: 2px;
+  left: 57.94%;
+  top: 70%;
+  background-color: black;
+
+}
+
+.providers_text {
+  position: absolute;
+  left: 57.94%;
+  right: 13.94%;
+  top: 80.37%;
+  bottom: 54.58%;
+
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.providers_button {
+  position: absolute;
+  left: 57.94%;
+  right: 13.94%;
+  top: 120.37%;
+  bottom: 54.58%;
+}
+
+.button_providers {
+  box-sizing: border-box;
+  color: #458FF6;
+  width: 200px;
+  height: 60px;
+  border: 2px solid #458FF6;
+  border-radius: 55px;
+  font-size: 18px;
+}
+.button_providers:hover{background-color: rgb(72, 224, 25);color: #458FF6;}
+
+/*download*/
+.download_section {
+  position: absolute;
+  /* width: 1365.58px;
+height: 675px; */
+  left: 200px;
+  top: 2340px;
+
+
+
+
+
+}
+
+.download_info {
+  position: absolute;
+  /* width: 420px;
+height: 375px; */
+  left: 80px;
+  top: 560px;
+
+}
+
+.download_header {
+  font-size: 24px;
+  width: 300px;
+}
+
+.download_line {
+  position: absolute;
+  top: 130px;
+  background-color: black;
+  width: 56px;
+  height: 2px;
+}
+
+.download_text {
+  position: absolute;
+  top: 150px;
+  width: 420px;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+}
+.download_img{
+position: absolute;
+top: 500px;
+left: 600px;
+  
+  
+}
+.download_button{
+  position: absolute;
+
+top: 350px;
+
+
+}
+.button_download{
+  box-sizing: border-box;
+  position: absolute;
+  left: 17.5%;
+  right: 70%;
+  top: 57.56%;
+  bottom: 41.48%;
+  width: 200px;
+  height: 56px;
+  border: 1.4px solid #458FF6;
+  border-radius: 55px;
+  font-size: 18px;
+  color: #458FF6;
+}
+.button_download:hover{background-color: rgb(72, 224, 25);color: #458FF6;}
+/* customer*/
+.customer_section{position: absolute;
+    width: 980px;
+    height: 425px;
+    left: 240px;
+    top: 3527px;
+    background-image: url(./img/customer_font.png);
+    text-align: center;
+    color: rgb(236, 225, 225);
+    border-radius: 30px;
+    background-color: #458FF6;
+    
+
+}
+.customer_header{
+     font-size: 24px;
+   }
+.customer_line{
+    display: inline-block;
+    background-color: rgb(249, 251, 252);
+    width: 56px;
+    height: 2px;
+}
+.customer_img{
+    position: absolute;
+    left: 124px;
+    top: 179px;
+    border-top-right-radius: 20px;
+    
+    
+    
+}
+.customer_name{
+    pointer-events: all;
+    left: 294px;
+    top: 199px;
+    
+}
